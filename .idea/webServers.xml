@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="79f14101-82e3-4b46-a774-f31ef743388e" name="sinum">
+        <fileTransfer rootFolder="/home/viperovm" accessType="SFTP" host="80.78.254.227" port="22" sshConfigId="a43f35b0-4f93-434a-a822-88c5503c064a" sshConfig="viperovm@80.78.254.227:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
